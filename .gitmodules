@@ -1,3 +1,3 @@
 [submodule "eecs441test"]
-	path = eecs441test
-	url = https://github.com/username/eecs441test.git
+    path = backend/data
+    url = https://github.com/mujahedk/eecs441test
