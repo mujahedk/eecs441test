@@ -1,0 +1,3 @@
+[submodule "eecs441test"]
+	path = eecs441test
+	url = https://github.com/mujahedk/eecs441test.git
